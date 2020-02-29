@@ -990,8 +990,8 @@ vendor/lib64/libmlipay.so
 vendor/lib/libwms.so|61efcd8bc52e28b7a9b978da0af62355b358887c
 vendor/lib64/libwms.so|57d9f33071f4ae42ac77c98fb82f4e1fe8ac4754
 
-# msm_irqbalance - from Tissot PPKQ1.180917.001.V10.0.11.0.PDHMIXM
-vendor/bin/msm_irqbalance|bf933b58332cf94fe4a2072bc3e976a6a82efe3c
+# msm_irqbalance - from sailfish PQ2A.190205.003
+vendor/bin/msm_irqbalance|7ce3f35f7e0f12af1e2d36aa095d56a5ec88c51e
 
 # Perf from - from wahoo
 vendor/lib/libqti-perfd-client.so|25ca015b8a427045b43f169dc869c39ff2cb6c93
