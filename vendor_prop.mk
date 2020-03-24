@@ -37,7 +37,8 @@ vendor.voice.path.for.pcm.voip=true \
 vendor.voice.playback.conc.disabled=true \
 vendor.voice.record.conc.disabled=false \
 vendor.voice.voip.conc.disabled=true \
-sys.display-size=1920x1080
+sys.display-size=1920x1080 \
+vendor.audio.dolby.ds2.enabled=true
 
 # Bluetooth
 PRODUCT_PROPERTY_OVERRIDES += \
