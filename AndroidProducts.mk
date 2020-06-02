@@ -15,3 +15,8 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/havoc_mido.mk
+
+COMMON_LUNCH_CHOICES := \
+    havoc_mido-user \
+    havoc_mido-userdebug \
+    havoc_mido-eng

@@ -236,8 +236,7 @@ persist.vendor.qti.inputopts.movetouchslop=0.6
 
 # Maintainer
 PRODUCT_PROPERTY_OVERRIDES += \
-ro.havoc.maintainer=hungphan2001
-
+ro.havoc.maintainer=Smokey
 
 # Higher fling velocities
 # for smoother scrolling and better responsiveness

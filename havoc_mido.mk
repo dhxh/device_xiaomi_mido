@@ -25,8 +25,8 @@ $(call inherit-product, device/xiaomi/mido/device.mk)
 # Inherit some common HavocOS stuff
 $(call inherit-product, vendor/havoc/config/common.mk)
 
-# Official
-export export HAVOC_BUILD_TYPE=Official
+# Build Tag
+HAVOC_BUILD_TYPE := FireCracker
 
 #Boot Animation res
 TARGET_BOOT_ANIMATION_RES := 1080
